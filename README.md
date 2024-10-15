@@ -11,8 +11,13 @@ Nanascript is a lightweight framework built on top of Express.js, designed to en
 
 ## Quick Start
 
+1. Download/Clone Project:
+   ```
+   git clone git@github.com:kwakuoseikwakye/nanascript-framework.git OR 
+   https://github.com/kwakuoseikwakye/nanascript-framework.git
+   ```
 
-1. Install Project:
+2. Install Project Library:
    ```
    npm i nanascript-express-api-starter-kit
    ```
