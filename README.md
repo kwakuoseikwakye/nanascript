@@ -22,7 +22,12 @@ Nanascript is a lightweight framework built on top of Express.js, designed to en
    npm i nanascript-express-api-starter-kit
    ```
 
-2. Start the development server:
+3. Install Project Template:
+   ```
+   create-app
+   ```
+
+4. Start the development server:
    ```
    npm run dev
    ```
